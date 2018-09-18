@@ -1,0 +1,14 @@
+{
+  "name": "test-sayhello-npm",
+  "version": "1.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "yuzhongyu",
+  "license": "ISC"
+}
